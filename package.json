@@ -107,7 +107,7 @@
         "react-if": "^4.1.1",
         "react-images": "^1.1.7",
         "react-photo-gallery": "^8.0.0",
-        "react-transition-group": "^4.4.2",
+        "react-transition-group": "^4.4.5",
         "sanitize-filename": "^1.6.3",
         "stream-chain": "^2.2.4",
         "stream-json": "^1.7.3",
